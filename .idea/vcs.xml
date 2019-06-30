@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BERT/bert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BERT/pytorch-pretrained-BERT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BERT/sentiment_analysis_fine_grain" vcs="Git" />
+  </component>
+</project>
